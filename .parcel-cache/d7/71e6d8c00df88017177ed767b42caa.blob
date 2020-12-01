@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="C-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>React App Focussed on TDD</title>
+    <link rel="stylesheet" type="text/css" media="screen" href="ccf55aa266d83f199c083648f97cad97">
+  </head>
+  <body>
+    <div id="root"></div>
+    <script src="3d35b3e76ef81c1b65062f4261f7b5d1"></script>
+  </body>
+</html>

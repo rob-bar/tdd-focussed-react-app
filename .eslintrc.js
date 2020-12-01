@@ -11,6 +11,7 @@ module.exports = {
     "eslint:recommended",
     "plugin:cypress/recommended",
   ],
+  parser: "babel-eslint",
   parserOptions: {
     ecmaFeatures: {
       jsx: true,
