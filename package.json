@@ -4,7 +4,8 @@
   "description": "TDD focussed boilerplate for react.",
   "main": "index.js",
   "scripts": {
-    "start": "parcel index.html"
+    "start": "parcel index.html",
+    "e2e": "cypress open"
   },
   "repository": {
     "type": "git",
@@ -25,6 +26,7 @@
   },
   "homepage": "https://github.com/rob-bar/tdd-focussed-react-app#readme",
   "devDependencies": {
+    "cypress": "^6.0.1",
     "parcel-bundler": "^1.12.4"
   },
   "dependencies": {
