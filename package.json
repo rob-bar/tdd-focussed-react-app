@@ -1,0 +1,27 @@
+{
+  "name": "tim-studio-tdd",
+  "version": "1.0.0",
+  "description": "TDD focussed boilerplate for react.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rob-bar/tdd-focussed-react-app.git"
+  },
+  "keywords": [
+    "TDD",
+    "React",
+    "Eslint",
+    "Babel",
+    "Cypress",
+    "Jest"
+  ],
+  "author": "Robbie Bardijn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rob-bar/tdd-focussed-react-app/issues"
+  },
+  "homepage": "https://github.com/rob-bar/tdd-focussed-react-app#readme"
+}
