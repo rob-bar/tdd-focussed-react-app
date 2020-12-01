@@ -7,3 +7,4 @@ A boilerplate App created for people who want to start quickly on a React projec
 - React & ReactDOM
 - Parcel
 - Cypress
+- Jest
