@@ -10,7 +10,7 @@ A boilerplate App created for people who want to start quickly on a React projec
 - Unit & Component Testing with: [Jest](https://jestjs.io/) & [Enzyme](https://enzymejs.github.io/enzyme/)
 - Linting with: [ESLint](https://eslint.org/) & [Stylelint](https://stylelint.io/)
 
-### UI framework:
+### UI Framework & StyleGuide:
 
 - Documentation & Styleguide with: [Storybook](https://storybook.js.org/)
 - UI framework with: [Material UI](https://material-ui.com/)
